@@ -13,9 +13,7 @@ Sign It Out uses a number of open source projects to work properly:
 
 - [Python](https://www.python.org/)  
 - [OpenCV](https://opencv.org/) 
-- [Microsoft Azure](https://azure.microsoft.com/en-in/)  
-- [MS Teams](https://www.microsoft.com/en-in/microsoft-teams/group-chat-software)  
-
+ 
 And of course Sign It Out itself is open source with a [public repository](https://github.com/ishani131/Sign_It_Out)
  on GitHub.
 
